@@ -1,7 +1,6 @@
-Appcelerator Titanium is made possible by a number of contributors.
+We would like to thank the following people or organizations for their contributions:
 
-We would like to thank the following for their contributions:
-
+- Appcelerator Inc.
 - Jeff Haynie
 - Nolan Wright
 - Marshall Culpepper
@@ -26,10 +25,4 @@ We would like to thank the following for their contributions:
 - Bryan Hughes
 - Ping Wang
 
-If you're interested in contributing to Titanium, please let us know
-by emailing info@appcelerator.com. Or, better yet, fork the Github
-project at start hacking away and let us know!
-
-In addition to the awesome contributors above, we also use a number
-of third-party open source bits.  Please see the source code for 
-more details and license information.
+Please see the source code for more details of third party open source libraries used in the sources information.
